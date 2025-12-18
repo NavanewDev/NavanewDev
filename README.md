@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Navod Hewawanithunga
 
-🎮 Game Developer | 👨‍💻 Full-Stack Enthusiast | 🎨 3D Creator  
-🌏 Currently in Australia  
+🎮 Developer | 👨‍💻 Full-Stack Enthusiast | 🎨 3D Creator  
+🌏 Currently living in Australia  
 🔥 I love building immersive digital experiences and learning new tools to bring ideas to life.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Developing full-stack apps using **React**, and **MongoDB**
+- Developing full-stack apps using **C#**, **.NET** **React**, and **MongoDB**
 - Creating games and interactive worlds with **Unity** and **Blender**
 - Working on personal projects that combine **code, creativity, and gameplay**
 - Learning more about **game AI**, **NPC behavior**, and **project workflows** (Git & Jira)
@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Stack
-
+- **Frameworks:** .NET CORE
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js
 - **Database:** MongoDB, MySQL (learning)
